@@ -1,2 +1,2 @@
 # colors
-colors is a small framework meke with css processor
+colors is a small framework developed with css processor (sass) for web developers and web designers
